@@ -10,7 +10,7 @@ export default function IntroScreen({ onNext }: IntroScreenProps) {
     return (
         <section className="flex min-h-dvh flex-col bg-white">
         <header className="flex h-14 items-center justify-center border-b border-slate-100">
-        <strong className="text-lg text-emerald-700">iM:Green</strong>
+        <strong className="text-lg text-emerald-700">iMGreen</strong>
             </header>
 
             <div className="flex flex-1 flex-col px-5 pb-28 pt-10">
